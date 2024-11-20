@@ -1,4 +1,4 @@
-name: transweather
+name: DeWeatherNet
 channels:
   - defaults
 dependencies:
@@ -38,5 +38,5 @@ dependencies:
     - torchvision==0.8.2
     - typing-extensions==4.0.0
     - yapf==0.31.0
-prefix: /home/ananth/anaconda3/envs/transweather
+prefix: /home/ananth/anaconda3/envs/DeWeatherNet
 
