@@ -66,5 +66,3 @@ Note that DeWeatherNet is built to solve all adverse weather problem with a sing
 ### Acknowledgements:
 
 This code-base uses certain code-blocks and helper functions from [Syn2Real](https://github.com/rajeevyasarla/Syn2Real), [Segformer](https://github.com/NVlabs/SegFormer), and [ViT](https://github.com/lucidrains/vit-pytorch).
-
-```
